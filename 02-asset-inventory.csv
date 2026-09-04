@@ -1,0 +1,13 @@
+﻿;ID;Asset;Category;Owner;
+;A-001;Microsoft 365;SaaS;IT Administrator;
+;A-002;Customer Database;Data;Management;
+;A-003;Employee Laptop;Endpoint;Employee;
+;A-004;Cloud Storage;Cloud;IT Administrator;
+;A-005;Company Website;Application;Marketing;
+;A-006;Business Email Accounts;SaaS;IT Administrator;
+;A-007;Employee Accounts;Identity;IT Administrator;
+;A-008;Backup System;Infrastructure;IT Administrator;
+;A-009;Financial Records;Data;Finance;
+;A-010;Customer Contracts;Data;Management;
+;A-011;Network Infrastructure;Infrastructure;IT Administrator;
+;A-012;HR Records;Data;Management / HR;
